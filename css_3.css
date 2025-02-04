@@ -1,0 +1,50 @@
+
+body{
+    background-color: #000871;
+
+}
+h3 {
+    color: rgba(0, 0, 0, 0.901);
+}
+h1{
+    box-shadow: 0 0 10px rgba(240, 144, 42, 5.5);
+    
+    color: aliceblue;
+
+    text-shadow: 2px 2px 5px rgba(249, 241, 241, 0.5); /* Black shadow with blur */
+    
+    
+}
+
+.card1{
+    margin: 3%;
+        border-radius: 10%;
+        
+        display: inline-block;
+        height:auto;
+        width: 40vh;
+
+        text-align: center;
+        background-color:#e8e4e4d7;
+
+
+
+        box-shadow: 0 0 10px rgba(240, 144, 42, 5.5);
+
+}
+#button{
+    margin: 5%;
+    background-color: rgba(220, 167, 21, 0.954);
+    box-shadow: 0 0 10px rgba(240, 144, 42, 6.5);
+
+}
+img{
+    object-fit: contain;
+    border-radius: 15%;
+    height: 20vh;
+    width: 30vh;
+    padding: 2%;
+    box-shadow: 0 0 10px rgba(240, 144, 42, 5.5);
+    
+    
+}
